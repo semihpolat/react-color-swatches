@@ -1,8 +1,37 @@
-# React + Vite
+# Color Swatches Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project fetches and displays color names based on HSL values using React and Zustand. It uses The Color API to get color names and displays them in a grid.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these instructions to set up and run the project on your local machine.
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm (v6 or higher)
+
+### Installation
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/color-swatches.git
+   cd color-swatches
+   ```
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+
