@@ -23,11 +23,7 @@ Follow these instructions to set up and run the project on your local machine.
    ```bash
    npm install
    ```
-2. **Install dependencies:**
 
-   ```bash
-   npm install
-   ```
 3. **Start the development server:**
 
    ```bash
